@@ -1,0 +1,29 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "rasengan dev",
+    "build": "rasengan build",
+    "serve": "rasengan-serve ./dist"
+  },
+  "dependencies": {
+    "@rasenganjs/image": "^1.0.0",
+    "@rasenganjs/serve": "^1.0.0",
+    "@tailwindcss/vite": "^4.*",
+    "i18next": "^25.7.4",
+    "rasengan": "^1.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-i18next": "^16.5.1",
+    "tailwindcss": "^4.*"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "cross-env": "^7.0.3",
+    "typescript": "^5.1.3",
+    "vite": "^7.0.0"
+  }
+}
