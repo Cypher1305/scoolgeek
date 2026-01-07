@@ -11,6 +11,7 @@
   "dependencies": {
     "@rasenganjs/image": "^1.0.0",
     "@rasenganjs/serve": "^1.0.0",
+    "@rasenganjs/vercel": "^1.1.0",
     "@tailwindcss/vite": "^4.*",
     "i18next": "^25.7.4",
     "rasengan": "^1.2.0",
