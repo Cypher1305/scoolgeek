@@ -30,7 +30,7 @@ const Page: PageComponent = () => {
         </div>
       </header> 
 
-      <div className="relative w-full leading-none">
+      <div className="relative w-full leading-[0] mb-[-1px]">
         <svg 
           viewBox="0 0 1440 320" 
           className="w-full h-auto"
@@ -41,7 +41,7 @@ const Page: PageComponent = () => {
         </svg>
       </div>
 
-      <div className="relative bg-white w-full h-[40%] px-8 pb-10 flex flex-col justify-between">
+      <div className="relative bg-white w-full h-[40%] px-8 pb-5 flex flex-col justify-between">
         <div>
           <h1 className="text-4xl font-bold text-[#090c9b]">
             {t('welcome')}
