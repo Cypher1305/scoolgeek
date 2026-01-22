@@ -1,6 +1,56 @@
 {
-  "welcome": "Welcome",
-  "subtitle": "Lorem ipsum dolor sit amet consectetur.",
-  "continue": "Continue",
-  "change_language": "Language"
+  "subtitle": "Join a community that feels like you.",
+  "welcome": "We’re launching the website very soon, stay tuned !",
+  "continue": "Overview",
+  "change_language": "Language",
+  "signin": "Sign In",
+  "signup": "Sign Up",
+  "signin_message": "Welcome back! Sign in to continue.",
+  "signup_message": "Create an account to start your adventure with us.",
+  "already_have_account": "Already have an account?",
+  "dont_have_account": "Don't have an account?",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "title": "s'Cool KIT !",
+  "description": "We’re launching the website very soon, stay tuned !",
+  "heroSlides": [
+    "Unique, simple, and authentic pieces, crafted with passion.",
+    "Tech & manga stickers to express your creativity.",
+    "Handmade wool creations, made with love.",
+    "Personalized notebooks to accompany your ideas.",
+    "Every piece tells a story."
+  ],
+  "productStickersPrice": "1500",
+  "productStickersCurrency": "XOF",
+  "productStickersName": "s'Cool GEEK",
+  "productStickersDesc": "Unique stickers and goodies (tech, manga...) to personalize your gadgets and notebooks. ",
+ 
+  "productKnittingPrice": "1500",
+  "productKnittingCurrency": "XOF",
+  "productKnittingName": "s'Cool Yarn",
+  "productKnittingDesc": "Express your creativity with our handmade wool creations. Perfect for gifts or personal use.",
+  "productCustomPrice": "50",
+  "productCustomCurrency": "XOF / Page",
+  "productCustomName": "Printing Service",
+  "productCustomDesc": "Printing service for your documents, assignments, and projects. High-quality prints at affordable prices.",
+
+  "bestSellers": "Top 10 Best Sellers",
+  "newArrivals": "New Arrivals",
+  "bestSellersDesc": "~76.7% of customers have purchased at least 1 of these items!",
+  "offers": "Only $1 each when you pick 5pcs & above!",
+
+  
+  "footerHome": "Home",
+  "footerAbout": "About",
+  "footerShop": "Store",
+  "footerBlog": "Blog",
+  "footerContact": "Contact",
+  "footerPolicy": "CGC",
+
+  "startingPrice": "From",
+  "exploreBtn": "Join us on Yango store",
+  "orderBtn": "Order Now"
+
 }

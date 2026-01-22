@@ -9,6 +9,8 @@
     "serve": "rasengan-serve ./dist"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.1",
     "@rasenganjs/image": "^1.0.0",
     "@rasenganjs/serve": "^1.0.0",
     "@rasenganjs/vercel": "^1.1.0",

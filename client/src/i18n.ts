@@ -8,8 +8,8 @@ import en from './languages/en.json';
 const isBrowser = typeof window !== 'undefined';
 
 const defaultLang = isBrowser
-  ? localStorage.getItem('lang') || 'fr'
-  : 'fr';
+  ? localStorage.getItem('lang') || 'en'
+  : 'en';
 
 i18n
   .use(initReactI18next)

@@ -1,0 +1,30 @@
+{
+  "name": "scoolkit-store-backend",
+  "version": "1.0.0",
+  "description": "scoolkit store backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cypher1305/scoolgeek.git"
+  },
+  "author": "Cypher1305",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cypher1305/scoolgeek/issues"
+  },
+  "homepage": "https://github.com/Cypher1305/scoolgeek#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.2.3",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.1.4",
+    "nodemon": "^3.1.11"
+  }
+}
