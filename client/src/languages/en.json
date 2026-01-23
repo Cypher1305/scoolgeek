@@ -16,11 +16,11 @@
   "title": "s'Cool KIT !",
   "description": "We’re launching the website very soon, stay tuned !",
   "heroSlides": [
-    "Unique, simple, and authentic pieces, crafted with passion.",
-    "Tech & manga stickers to express your creativity.",
-    "Handmade wool creations, made with love.",
-    "Personalized notebooks to accompany your ideas.",
-    "Every piece tells a story."
+    "Unique, simple, and authentic pieces.",
+    "So stylish!",
+    "Impeccable service.",
+    "Prices are very affordable.",
+    "Very beautiful!"
   ],
   "productStickersPrice": "1500",
   "productStickersCurrency": "XOF",
@@ -51,6 +51,7 @@
 
   "startingPrice": "From",
   "exploreBtn": "Join us on Yango store",
-  "orderBtn": "Order Now"
+  "orderBtn": "Go to Yango Store",
+  "UploadBtn": "Upload File(s)"
 
 }

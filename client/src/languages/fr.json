@@ -16,11 +16,11 @@
   "title": "s'Cool KIT !",
   "description": "Le site arrive très bientôt, ne manque rien du lancement.",
   "heroSlides": [
-    "Des pièces uniques, simples et authentiques, créées avec passion.",
-    "Stickers tech & manga pour exprimer ta créativité.",
-    "Créations en laine faites à la main, avec amour.",
-    "Notebooks personnalisés pour accompagner tes idées.",
-    "Chaque pièce raconte une histoire."
+    "Des pièces uniques, simples et authentiques.",
+    "Trop stylés !",
+    "Service impeccable.",
+    "Les prix sont très abordables.",
+    "Très beaux !"
   ],
   "productStickersPrice": "1500",
   "productStickersCurrency": "XOF",
@@ -32,7 +32,7 @@
   "productKnittingDesc": "Exprime ta créativité avec nos créations en laine faites à la main, parfaites pour personnaliser tes gadgets et carnets.",
   "productCustomPrice": "50",
   "productCustomCurrency": "XOF",
-  "productCustomName": "Printing Service",
+  "productCustomName": "Service d'impression",
   "productCustomDesc": "Service d'impression pour vos documents, devoirs et projets. Impressions de haute qualité à des prix abordables.",
 
   "bestSellers": "Top 10 des meilleures ventes",
@@ -49,5 +49,6 @@
 
   "startingPrice": "À partir de",
   "exploreBtn": "Rejoins-nous sur la boutique Yango",
-  "orderBtn": "Commander"
+  "orderBtn": "Aller à la boutique Yango",
+  "UploadBtn": "Téléverser le(s) fichier(s)"
 }
